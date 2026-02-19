@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "type": "roupas",
+      "caption": "Vestido Elegante",
+      "price": "R$ 299,90",
+      "promo": "20% OFF",
+      "image_base64": "data:image/...",
+      "ratings": [5, 4, 5],
+      "comments": [
+        {
+          "rating": 5,
+          "text": "Produto excelente!",
+          "date": "2024-01-15"
+        }
+      ]
+    }
+  ],
+  "store_config": {
+    "storeName": "MAISON ÉLÉGANCE",
+    "description": "Elegância e sofisticação em cada detalhe",
+    "primaryColor": "#C4A484",
+    "whatsapp": "55 11 99999-9999",
+    "instagram": "@sua_loja"
+  }
+}
